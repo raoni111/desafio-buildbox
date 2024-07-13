@@ -24,7 +24,7 @@ o projeto foi realisado em 4 horas e inicializando react + typescript com o vite
   
 [![My Skills](https://skillicons.dev/icons?i=vite&perline=3)](https://skillicons.dev)
 
-# Comandos
+## Comandos
 
 ```npm
   yarn run dev
